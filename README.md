@@ -2,9 +2,9 @@
 
 - 📫 How to reach me: Email me at mhmdhasanrabbi@gmail.com 🙂
 
-[![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhasanrabbi)](https://github.com/mhasanrabbi/github-readme-stats)
+[![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhasanrabbi&count_private=true&show_icons=true&theme=radical)](https://github.com/mhasanrabbi/github-readme-stats)
 
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanrabbi&theme=blue-green)
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanrabbi&theme=blue-green&layout=compact)
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/mhasanrabbi/mhasanrabbi)](https://github.com/mhasanrabbi)
